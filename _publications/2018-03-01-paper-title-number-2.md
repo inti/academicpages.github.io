@@ -1,7 +1,7 @@
 ---
 title: "Draft genome sequence of Exiguobacterium aurantiacum strain PN47 isolate from saline ponds, known as “Salar del Huasco”, located in the Altiplano in the North of Chile"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-03-01-paper-title-number-2
 excerpt: ''
 date: 2018-03-01
 venue: 'Brazilian Journal of Microbiology'
