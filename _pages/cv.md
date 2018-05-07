@@ -34,7 +34,7 @@ Work experience
   aka HiQ project, also led by Dr Robert Plomin (KCL). Statistical genetics analysis of exon-chip
   data ~5000 individuals for the identification of genetic variants associated human intelligence.
   
- * 2011-2013: Social insetc's genomics with [Mark Brown](https://www.markjfbrown.com/) and [Seirian Sumner](www.sumnerlab.co.uk) 
+* 2011-2013: Social insetc's genomics with [Mark Brown](https://www.markjfbrown.com/) and [Seirian Sumner](www.sumnerlab.co.uk)
   * Post-doctoral research assistant working with Mark (Royal Holloway University of
 London)and Seirian (Bristol University). The project used RNA-seq to study the
 interaction between the parasitic Sphaerularia bombi and its bumble-bee host, a model of the
