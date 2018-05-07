@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 2016: Diploma on “Intellectual Property” at the Law School of Pontificia Universidad Católica de Chile.
+From April to October 2016.
+* 2016: Workshop on Intellectual Property Marketing and Valuation taught by WIPO at INAPI (Chile). From 19 to 22 April.
+* 2007-2011: PhD in Statistical Genetics and MPhil in Social, Genetic and Developmental Psychiatry at the MRC SGDP Centre, Institute of Psychiatry, King’s College London (London, UK). Supervised by Gerome Breen (KCL) and Michael Barnes (Queen Mary).
+* 2009-2010: System Biomedicine Graduate Program at King’s College London. Six months apprenticeship with Dr. Ton Coolen on Bayesian analysis of genome-wide association studies.
+* 2002-2007: Bachelor in Biochemistry, University of Santiago of Chile (Santiago, Chile). Ranked 1st. Dissertation entitled: “Comparative analysis of genome sequences of Acidithiobacillus ferrooxidans, A. caldus and A. thiooxidans”. Supervised by David Holmes at the CBGB.B.S. in Github, Github University, 2012
 
 Work experience
 ======
@@ -51,15 +54,17 @@ analysis of GWAS](https://arxiv.org/abs/1308.4102).
 * 2004: Dr. [Luis Burzio’s](http://www.cienciavida.org/luis-burzio-phd/) group at Life Science Foundation (Santiago, Chile). 
   * I did an internship on molecular biology for 3 months working on potentially new regulatory RNAs.
 
-  
-Skills
+
+Funding and Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016: CONICYT Program “FONDECYT de Iniciación 2015” grant 11150747 entitled “A system genetics strategy to map plant QTLs for phenotypic plasticity” funded for 3 years. Funding: approx. 140.000 USD.
+* 2014: CONICYT “Program for the Attraction and Integration of Advanced Human Capital on the Academia” Fellowship 821320035 entitled “Development of a genomic selection platform to improve breeding programs in the Chilean agricultural and livestock industries”. Funding: approx. 150.000 USD.
+* 2012: London Centre for Ecology and Evolution (CEE) grant. I am the PI of this grant aiming to implement for first time a neuro-imaging methods for bumblebees to study their brain morphology, its evolution and how it is affected by pesticides. Funding: £4100 over 1 year.
+* 2009: NIHR BRC for Mental Health Award for postgraduate training to undertake 6 months postgraduate training in System Biomedicine at King’s College London.
+* 2008: Travel Award from National Institute for Mental Health for XVIth World Congress of Psychiatry Genetics (Osaka, Japan). Funding: approx. 1500 USD.
+* 2007: Overseas research student award (ORSAS) at King’s College London. Ranked 1st among KCL post-graduate applicants. NIHR Biomedical Research Centre PhD Studentship. Funding: approx. £24000 per year over 3 years.
+* 2006: Training scholarship at International High Technology Centres from the Andes Foundation (C- 14040) (Santiago, Chile). The scholarship enabled me to work at the Wellcome Trust Sanger Institute (Cambridge, UK) for three months with Dr. Alex Bateman. Funding: approx. 5000 USD.
+* 2004-2006: Fellowship from academic excellence from the Zan Lungho Foundation (Santiago, Chile). Given to the ten best students among the three careers of the Faculty. Funding: monthly stipends adding up to 5000 USD over 3 years.
 
 Publications
 ======
