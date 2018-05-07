@@ -17,10 +17,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2018: uBiome - Group leader of Statistical Genetic.
+  *  Responsible for statistical data analyses and analytical innovations for lead identification for new products. Directly responsible for results and analyses resulting on over 45 provisional and 5 regular patent applications to the USPTO.
 
 * Fall 2015: Research Assistant
   * Github University
